@@ -53,7 +53,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -136,7 +136,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -218,8 +218,8 @@ const Cards = () => {
           <div>
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
-              Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              Sayt sahifalar soni: 1 har bir sahifa minimum 5 ta qismdan iborat
+              boladi.
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -302,7 +302,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -385,7 +385,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -468,7 +468,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -551,7 +551,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
@@ -634,7 +634,7 @@ const Cards = () => {
             <p>Texnik vazifa tayyorlab berish: 1 kun</p>
             <p>
               Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat
-              bo’ladi.)
+              boladi.)
             </p>
             <p>Veb Dizayn: 10-15 soatlik mehnat.</p>
           </div>
