@@ -9,7 +9,7 @@ const Card = () => {
             Biz haqimizda
           </h1>
           <p className="px-4 sm:px-12 text-white text-base   sm:text-lg">
-            Qisqacha ma'lumot
+            Qisqacha malumot
           </p>
         </div>
       </div>

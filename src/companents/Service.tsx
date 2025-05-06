@@ -18,7 +18,7 @@ const Service = () => {
           <Image src={icon} alt="Icon" width={150} />
           <h1 className="text-2xl">Loading safifalar</h1>
           <p className="">
-            Qisqa, ta'sirli va maqsadli sahifalar, mijozlarni alohida harakatga
+            Qisqa tasirli va maqsadli sahifalar, mijozlarni alohida harakatga
             undash uchun mo'ljallangan.
           </p>
         </div>
@@ -26,16 +26,16 @@ const Service = () => {
           <Image src={icon1} alt="Icon" width={150} />
           <h1 className="text-2xl">Korporativ veb-sayt</h1>
           <p className="">
-            Kompaniyaning umumiy ma'lumotini taqdim etish, xizmatlar yoki
-            mahsulotlar haqida ma'lumot berish.
+            Kompaniyaning umumiy malumotini taqdim etish, xizmatlar yoki
+            mahsulotlar haqida malumot berish.
           </p>
         </div>
         <div className="px-8 py-5 w-full sm:w-[350px] text-white font-semibold border border-gray-500 rounded-xl bg-white/2 backdrop-blur hover:bg-[#5A00DB] shadow-md duration-500 flex flex-col items-center text-center gap-3">
           <Image src={icon2} alt="Icon2" width={150} />
-          <h1 className="text-2xl">Online do’kon</h1>
+          <h1 className="text-2xl">Online dokon</h1>
           <p className="">
-            Mahsulotlar yoki xizmatlarni onlayn tarzda sotish. To‘lov tizimlari
-            va mahsulotni boshqarish tizimi mavjud.
+            Mahsulotlar yoki xizmatlarni onlayn tarzda sotish. Tolov tizimlari
+            va mahsulotni boshqarish tizimi mavjud.
           </p>
         </div>
         <div className="px-8 py-5 w-full sm:w-[350px] text-white font-semibold border border-gray-500 rounded-xl bg-white/2 backdrop-blur hover:bg-[#5A00DB] shadow-md flex duration-500  flex-col items-center text-center gap-3">
@@ -58,16 +58,16 @@ const Service = () => {
           <Image src={icon5} alt="Icon5" width={150} />
           <h1 className="text-2xl">Blog sahifalari</h1>
           <p className="">
-            O‘z fikrlari, yangiliklari yoki ma'lumotlarini o‘rtoqlashish.
+            Oz fikrlari, yangiliklari yoki ma'lumotlarini ortoqlashish.
             Ma'lumot yetkazish, auditoriyani jalb qilish va reklama qilish
             uchun.
           </p>
         </div>
         <div className="px-8 py-5 w-full sm:w-[350px] text-white font-semibold border border-gray-500 rounded-xl bg-white/2 backdrop-blur hover:bg-[#5A00DB] shadow-md flex duration-500  flex-col items-center text-center gap-3">
           <Image src={icon6} alt="Icon6" width={150} />
-          <h1 className="text-2xl">Ta’lim platformasi</h1>
+          <h1 className="text-2xl">Talim platformasi</h1>
           <p className="">
-            Ta'lim kurslari, videodarsliklar, yoki online testlar uchun. O‘quv
+            Ta'lim kurslari, videodarsliklar, yoki online testlar uchun. Oquv
             muassasalari yoki onlayn dars beruvchi kompaniyalar uchun.
           </p>
         </div>
@@ -84,7 +84,7 @@ const Service = () => {
           <h1 className="text-2xl">Alohida loyihami ?</h1>
           <p className="">
             Biz yangi startap loyihalarni ham rivojlantirishda yordam beramiz.
-            Agarda sizda yangi startap g’oya mavjud bo’lsa biz siz bilan uni
+            Agarda sizda yangi startap goya mavjud bolsa biz siz bilan uni
           </p>
         </div>
       </div>
