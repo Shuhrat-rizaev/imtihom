@@ -23,18 +23,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -43,7 +43,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -106,18 +106,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -126,7 +126,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -189,18 +189,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -209,7 +209,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -272,18 +272,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -292,7 +292,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -355,18 +355,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -375,7 +375,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -438,18 +438,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -458,7 +458,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -521,18 +521,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -541,7 +541,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>
@@ -604,18 +604,18 @@ const Cards = () => {
                 <h1 className="text-xl">Maqsadli</h1>
               </div>
               <p>
-                Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga
+                Aniq maqsadga yo&apos; naltirilgan bo&apos; lib, mijozni maxsus harakatga
                 undashga xizmat qiladi.
               </p>
             </div>{" "}
             <div className="w-[350px]">
               <div className="flex gap-1">
                 <Image src={estangle} alt="Restangle" height={25} width={25} />
-                <h1 className="text-xl">Qisqa va ta'sirli</h1>
+                <h1 className="text-xl">Qisqa va ta&apos; sirli</h1>
               </div>
               <p>
                 Mijozni birinchi qarashda qiziqtiradigan va uni keyingi qadamga
-                undaydigan muhim ma'lumotlarni taqdim etadi.
+                undaydigan muhim ma&apos; lumotlarni taqdim etadi.
               </p>
             </div>{" "}
             <div className="w-[283px]">
@@ -624,7 +624,7 @@ const Cards = () => {
                 <h1 className="text-xl">Tez yuklanuvchi</h1>
               </div>
               <p>
-                Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha
+                Mijozlarning sabr-toqatiga ta&apos; sir qilmaslik uchun iloji boricha
                 tez yuklanadi.
               </p>
             </div>

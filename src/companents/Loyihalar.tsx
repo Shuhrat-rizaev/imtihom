@@ -35,14 +35,14 @@ const Loyihalar = () => {
         <div className="w-full lg:w-[50%] flex flex-col gap-3 justify-end">
           <h1 className="text-xl md:text-2xl">Tourmad loyihasi</h1>
           <p>
-            Tourmad – O‘zbekistonning ichki turizimini rivojlantirish maqsadida
-            ishlab chiqilgan bu web sayt o‘zida bir necha service larni o‘z
-            ichiga jamlagan bo‘lib ulardan: Mehmonxona xizmari, Restoran
+            Tourmad  Ozbekistonning ichki turizimini rivojlantirish maqsadida
+            ishlab chiqilgan bu web sayt ozida bir necha service larni oz
+            ichiga jamlagan bolib ulardan: Mehmonxona xizmari, Restoran
             xizmati, Gitlik xizmati, Mashinada sayohat qilish uchun haydovchilar
-            xizmari va boshqa ko‘plab xizmarlarni o‘z ichiga oladi. Bundan
-            tashqari saytdan o‘zingiz uchun qayerlarga boorish kerakligini va
-            qayerlarda xizmat ko‘satish qancha ekanligini ko‘rishingiz va
-            o‘zingiz uchun oldindan buyurtma qilishingiz mumkin.
+            xizmari va boshqa koplab xizmarlarni oz ichiga oladi. Bundan
+            tashqari saytdan ozingiz uchun qayerlarga boorish kerakligini va
+            qayerlarda xizmat kosatish qancha ekanligini korishingiz va
+            ozingiz uchun oldindan buyurtma qilishingiz mumkin.
           </p>
           <button className="px-4 py-2 w-44 text-white text-lg font-semibold border border-gray-500 rounded-xl bg-transparent hover:bg-gray-800 transition-all shadow-md">
             Loyihani kurish
@@ -61,11 +61,11 @@ const Loyihalar = () => {
         <div className="w-full lg:w-[50%] flex flex-col gap-4 justify-end text-right">
           <h1 className="text-xl md:text-2xl">ProRun loyihasi</h1>
           <p>
-            Prorun.uz – bu saytda tez-tez bo‘lib o‘tadigan yugurish bo‘yicha
-            musobaqalar bo‘lib o‘tadi va siz saytdan ro‘ yxatdan o‘tgan holda
-            istalgan yoki har bir musobaqada qatnashishingiz mumkin.  Nima uchun
-            sayt qurilgan? Musobaqalarda chet ellik ishtirokchilar bo‘lgani bois
-            ularga va boshqa qatnashchilarga ro‘yxatdan o‘tishni oson qilish
+            Prorun.uz bu saytda tez-tez bolib otadigan yugurish boyicha
+            musobaqalar bolib otadi va siz saytdan ro yxatdan otgan holda
+            istalgan yoki har bir musobaqada qatnashishingiz mumkin. Nima uchun
+            sayt qurilgan? Musobaqalarda chet ellik ishtirokchilar bolgani bois
+            ularga va boshqa qatnashchilarga royxatdan oishni oson qilish
             uchun yangi web ilova ishlab chiqildi.
           </p>
           <button className="px-4 py-2 w-44 self-end text-white text-lg font-semibold border border-gray-500 rounded-xl bg-transparent hover:bg-gray-800 transition-all shadow-md">
@@ -91,9 +91,9 @@ const Loyihalar = () => {
         <div className="w-full lg:w-[50%] flex flex-col gap-3 justify-end">
           <h1 className="text-xl md:text-2xl">Xalq trans loyihasi</h1>
           <p>
-            Bu yerda esa yana ko’proq ma’lumotlar berilishi kerak. Lorem
-            Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since
+            Bu yerda esa yana koproq malumotlar berilishi kerak. Lorem
+            Ipsumis simply dummy text of the printing and typesetting industry.
+            Lorem Ipsum has been the industry&apos; s standard dummy text ever since
             the 1500s...
           </p>
           <button className="px-4 py-2 w-44 text-white text-lg font-semibold border border-gray-500 rounded-xl bg-transparent hover:bg-gray-800 transition-all shadow-md">

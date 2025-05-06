@@ -19,7 +19,7 @@ const Service = () => {
           <h1 className="text-2xl">Loading safifalar</h1>
           <p className="">
             Qisqa tasirli va maqsadli sahifalar, mijozlarni alohida harakatga
-            undash uchun mo'ljallangan.
+            undash uchun mo&apos; ljallangan.
           </p>
         </div>
         <div className="px-8 py-5 w-full sm:w-[350px] text-white font-semibold border border-gray-500 rounded-xl bg-white/2 backdrop-blur hover:bg-[#5A00DB] shadow-md duration-500 flex flex-col items-center text-center gap-3">
@@ -58,8 +58,8 @@ const Service = () => {
           <Image src={icon5} alt="Icon5" width={150} />
           <h1 className="text-2xl">Blog sahifalari</h1>
           <p className="">
-            Oz fikrlari, yangiliklari yoki ma'lumotlarini ortoqlashish.
-            Ma'lumot yetkazish, auditoriyani jalb qilish va reklama qilish
+            Oz fikrlari, yangiliklari yoki ma&apos; lumotlarini ortoqlashish.
+            Ma&apos; lumot yetkazish, auditoriyani jalb qilish va reklama qilish
             uchun.
           </p>
         </div>
@@ -67,7 +67,7 @@ const Service = () => {
           <Image src={icon6} alt="Icon6" width={150} />
           <h1 className="text-2xl">Talim platformasi</h1>
           <p className="">
-            Ta'lim kurslari, videodarsliklar, yoki online testlar uchun. Oquv
+            Ta&apos; lim kurslari, videodarsliklar, yoki online testlar uchun. Oquv
             muassasalari yoki onlayn dars beruvchi kompaniyalar uchun.
           </p>
         </div>
@@ -76,7 +76,7 @@ const Service = () => {
           <h1 className="text-2xl">ERP platformasi</h1>
           <p className="">
             ERP platformasi korxona yoki tashkilotning barcha jarayonlarini
-            birlashtiruvchi kompleks dasturiy ta'minotdir.
+            birlashtiruvchi kompleks dasturiy ta&apos; minotdir.
           </p>
         </div>
         <div className="px-8 py-5 w-full sm:w-[350px] text-white font-semibold border border-gray-500 rounded-xl bg-white/2 backdrop-blur hover:bg-[#5A00DB] shadow-md flex duration-500  flex-col items-center text-center gap-3">

@@ -22,7 +22,7 @@ const Cards = () => {
             <h3 className="text-lg font-bold px-4 pt-4">Boshlanishi</h3>
             <p className="text-sm py-5 px-4">
               Biz --- dan ish boshladik va --- larni oldimizga maqsad qilib
-              qo’ydik
+              qoydik
             </p>
           </div>
         </div>
@@ -87,9 +87,9 @@ const Cards = () => {
       </div>
 
       <p className="mt-24 text-justify">
-        Bu yerda esa yana ko’proq ma’lumotlar berilishi kerak. Lorem Ipsum is
+        Bu yerda esa yana koproq malumotlar berilishi kerak. Lorem Ipsum is
         simply dummy text of the printing and typesetting industry. Lorem Ipsum
-        has been the industry's standard dummy text ever since the 1500s, when
+        has been the industry&apos; s standard dummy text ever since the 1500s, when
         an unknown printer took a galley of type and scrambled it to make a type
         specimen book. It has survived not only five centuries, but also the
         leap into electronic typesetting, remaining essentially unchanged.
