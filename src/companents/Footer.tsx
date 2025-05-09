@@ -4,8 +4,10 @@ import avatar from "@/assest/imegs/avatar.png";
 import fon from "@/assest/imegs/fon.png";
 import fon1 from "@/assest/imegs/fon.png";
 import fon2 from "@/assest/imegs/fon.png";
+import { useTranslations } from "next-intl";
 
 const Footer = () => {
+  const t = useTranslations();
   return (
     <div className="container mx-auto w-[90%] mt-20 pb-30 relative">
       <div className="relative">
@@ -44,15 +46,13 @@ const Footer = () => {
       </div>
 
       <div className="items-center flex flex-col gap-3 relative z-10 text-center px-4">
-        <h1 className="text-3xl md:text-5xl">Biz bilan aloqa</h1>
-        <p className="text-base md:text-lg">
-          Loyihangizni qanday realizatsiya qilish haqida batafsil suhbatlashamiz
-        </p>
+        <h1 className="text-3xl md:text-5xl">{t("contac")}</h1>
+        <p className="text-base md:text-lg">{t("will")}</p>
       </div>
 
       <div className="flex flex-col lg:flex-row gap-6 relative z-10 px-4">
         <div className="mt-10 p-4 border border-gray-500 rounded-xl w-full lg:w-[920px] backdrop-blur hover:bg-transparent hover:backdrop-blur">
-          <h1 className="text-2xl py-3">Bizning jamoa haqida</h1>
+          <h1 className="text-2xl py-3">{t("tea")}</h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5">
             {Array.from({ length: 9 }).map((_, index) => (
               <div
@@ -75,10 +75,9 @@ const Footer = () => {
         </div>
 
         <div className="mt-10 flex flex-col gap-4 items-center text-center py-10 border w-full lg:w-[416px] border-gray-500 rounded-xl  backdrop-blur hover:bg-transparent hover:backdrop-blur">
-          <h1 className="text-2xl">Bepul konsultatsiya</h1>
+          <h1 className="text-2xl">{t("free")}</h1>
           <p>
-            Loyihangiz bo’yicha boshlang’ich bepul konsultatsiya uchun
-            ma’lumotingizni qoldiring.
+           {t("leave")}
           </p>
 
           <input

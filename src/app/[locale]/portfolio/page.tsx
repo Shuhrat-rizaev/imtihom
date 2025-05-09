@@ -1,6 +1,6 @@
 import Navbar from "@/companents/Navbar";
 import React from "react";
-import Header from "./components/Header";
+import Header from "./Header";
 import Loyihalar from "@/companents/Loyihalar";
 import Footer from "@/companents/Footer";
 

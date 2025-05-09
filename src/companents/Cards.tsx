@@ -6,8 +6,10 @@ import Image from "next/image";
 import fon from "@/assest/imegs/fon.png";
 import fon1 from "@/assest/imegs/fon.png";
 import fon2 from "@/assest/imegs/fon.png";
+import { useTranslations } from "next-intl";
 
 const Cards = () => {
+  const t = useTranslations();
   return (
     <div className="container mx-auto w-[90%] relative px-4">
       <div className="mt-20 flex flex-col lg:flex-row gap-10 items-center">
@@ -19,11 +21,8 @@ const Cards = () => {
               width={400}
               className="rounded-lg w-full h-auto"
             />
-            <h3 className="text-lg font-bold px-4 pt-4">Boshlanishi</h3>
-            <p className="text-sm py-5 px-4">
-              Biz --- dan ish boshladik va --- larni oldimizga maqsad qilib
-              qoydik
-            </p>
+            <h3 className="text-lg font-bold px-4 pt-4">{t("the")}</h3>
+            <p className="text-sm py-5 px-4">{t("wei")}</p>
           </div>
         </div>
 
@@ -35,13 +34,8 @@ const Cards = () => {
               width={400}
               className="rounded-lg w-full h-auto"
             />
-            <h3 className="text-lg font-bold px-4 pt-4">
-              Uzoq muddatli loyihalar
-            </h3>
-            <p className="text-sm py-5 px-4">
-              Tajribamiz davomida umumiy hisobda - - loyiha uchun -- - muddatda
-              ishlab topshirdik
-            </p>
+            <h3 className="text-lg font-bold px-4 pt-4">{t("long")}</h3>
+            <p className="text-sm py-5 px-4">{t("during")}</p>
           </div>
         </div>
 
@@ -53,13 +47,8 @@ const Cards = () => {
               width={400}
               className="rounded-lg w-full h-auto"
             />
-            <h3 className="text-lg font-bold px-4 pt-4">
-              Jamoamiz kengaymoqda
-            </h3>
-            <p className="text-sm py-5 px-4">
-              Jamoamiz safi esa tobora kengaymoqda. Boshida - kishidan
-              boshlangan faoliyatimiz hozirda --
-            </p>
+            <h3 className="text-lg font-bold px-4 pt-4">{t("our")}</h3>
+            <p className="text-sm py-5 px-4">{t("team")}</p>
           </div>
         </div>
       </div>
@@ -89,10 +78,10 @@ const Cards = () => {
       <p className="mt-24 text-justify">
         Bu yerda esa yana koproq malumotlar berilishi kerak. Lorem Ipsum is
         simply dummy text of the printing and typesetting industry. Lorem Ipsum
-        has been the industry&apos; s standard dummy text ever since the 1500s, when
-        an unknown printer took a galley of type and scrambled it to make a type
-        specimen book. It has survived not only five centuries, but also the
-        leap into electronic typesetting, remaining essentially unchanged.
+        has been the industry&apos; s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book. It has survived not only five centuries, but also
+        the leap into electronic typesetting, remaining essentially unchanged.
       </p>
     </div>
   );

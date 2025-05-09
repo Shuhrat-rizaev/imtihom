@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "./companents/Navbar";
+import Navbar from "@/companents/Navbar";
 import Header from "./companents/Header";
 import Cards from "./companents/Cards";
-import Footer from "./companents/Footer";
+import Footer from "@/companents/Footer";
 
 const page = () => {
   return (
