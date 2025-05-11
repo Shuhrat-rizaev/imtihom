@@ -52,7 +52,7 @@ const Navbar = () => {
           isMenuOpen ? "block" : "hidden"
         } w-full md: md:w-auto md:block`}
       >
-        <ul className="flex flex-wrap justify-center gap-4 md:gap-8 text-sm sm:text-base">
+        <ul className="flex flex-wrap  justify-center gap-4 md:gap-8 text-sm sm:text-base">
           <Link href="/">
             <li className="hover:text-blue-400">{t("greeting")}</li>
           </Link>{" "}

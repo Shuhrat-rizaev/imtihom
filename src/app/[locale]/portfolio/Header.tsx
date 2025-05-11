@@ -6,7 +6,7 @@ import { useTranslations } from "next-intl";
 const Header = () => {
   const t = useTranslations();
   return (
-    <div className="mt-15">
+    <div className="mt-25">
       <div>
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-center md:text-left -mt-30">
